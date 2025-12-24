@@ -39,7 +39,7 @@ const settings = {
   packname: 'WALLYJAYTECH-MD',
   author: '‎Wally Jay',
   botName: "WALLYJAYTECH-MD",
-  botOwner: 'Wally Jay', 
+  botOwner: 'Jayson', 
   timezone: 'Africa/Lagos',
   prefix: '.',
   ownerNumber: '2349065071148', //Set your number here without + symbol, just add country code & number without any space
